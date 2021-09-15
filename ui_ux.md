@@ -1,3 +1,5 @@
+### This is the propsed ui/ux for the digital hotel menu, benefitial changes will be made in the html. This is juz a basic one proposed.
+
 # window 1
 ![image](https://user-images.githubusercontent.com/86396701/133039014-263041f2-9149-409a-9d2c-1d50223fbf1b.png)
 
