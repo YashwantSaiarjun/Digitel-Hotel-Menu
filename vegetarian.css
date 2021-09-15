@@ -1,0 +1,54 @@
+header{
+    background-color:#EF4F0A;
+    width: auto;
+    height: 60px;
+}
+#head_para{
+    font-size: 36px;
+    color: aliceblue;
+    font-family:Bowlby One SC;
+    text-align: center;
+}
+#veg_food{
+    font-family: Fugaz One;
+    color: aliceblue;
+    font-size: 28px;
+    margin-left: 3cm;
+    margin-top: 1cm;
+}
+.items{
+    color: aliceblue;
+    font-family: 'Glory', sans-serif;
+    font-size: 28px;
+    margin-left: 3cm;
+}
+.typebox{
+    width: 20px;
+    height: 20px;
+    background: aliceblue;
+}
+.qty_box{
+    height: 20px;
+    width: 45px;
+}
+#confirm{
+    color: aliceblue;
+    font-family: Fugaz One;
+    font-size: 28px;
+    text-align: center;
+    background-color: #EF4F0A;
+    padding: 5px;
+    border-radius: 7%;
+
+}
+#back{
+    font-size: 28;
+    font-family: Fugaz One;
+    color: aliceblue;
+    text-align: center;
+    background-color: #EF4F0A;
+    margin-left: 22cm;
+    padding: 3px;
+    border-radius: 7%;
+
+}
